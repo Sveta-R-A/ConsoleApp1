@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AEF9B-2CF2-46B2-9C5E-4E32001C2784}|ConsoleApp1.csproj|d:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u043B\u04407-8\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AEF9B-2CF2-46B2-9C5E-4E32001C2784}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AEF9B-2CF2-46B2-9C5E-4E32001C2784}|ConsoleApp1.csproj|d:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u043B\u04407-8\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC7AEF9B-2CF2-46B2-9C5E-4E32001C2784}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D895E-B00F-45CA-95D3-EE54639870C8}|..\\TestProject1\\TestProject1.csproj|d:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u043B\u04407-8\\testproject1\\trianglearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AEF9B-2CF2-46B2-9C5E-4E32001C2784}|ConsoleApp1.csproj|d:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u043B\u04407-8\\consoleapp1\\geometryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AEF9B-2CF2-46B2-9C5E-4E32001C2784}|ConsoleApp1.csproj|solutionrelative:geometryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D895E-B00F-45CA-95D3-EE54639870C8}|..\\TestProject1\\TestProject1.csproj|d:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u043B\u04407-8\\testproject1\\geometryservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D895E-B00F-45CA-95D3-EE54639870C8}|..\\TestProject1\\TestProject1.csproj|d:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u043B\u04407-8\\testproject1\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T17:16:46.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeometryService.cs",
+              "DocumentMoniker": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\ConsoleApp1\\GeometryService.cs",
+              "RelativeDocumentMoniker": "GeometryService.cs",
+              "ToolTip": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\ConsoleApp1\\GeometryService.cs",
+              "RelativeToolTip": "GeometryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:05:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriangleArea.cs",
+              "DocumentMoniker": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\TestProject1\\TriangleArea.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\TriangleArea.cs",
+              "ToolTip": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\TestProject1\\TriangleArea.cs",
+              "RelativeToolTip": "..\\TestProject1\\TriangleArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:03:45.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberData.cs",
+              "DocumentMoniker": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\TestProject1\\MemberData.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\MemberData.cs",
+              "ToolTip": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\TestProject1\\MemberData.cs",
+              "RelativeToolTip": "..\\TestProject1\\MemberData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:01:26.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeometryServiceTest.cs",
+              "DocumentMoniker": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\TestProject1\\GeometryServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\GeometryServiceTest.cs",
+              "ToolTip": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\TestProject1\\GeometryServiceTest.cs",
+              "RelativeToolTip": "..\\TestProject1\\GeometryServiceTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:58:41.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u041C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\\u041B\u04207-8\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:58:21.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
