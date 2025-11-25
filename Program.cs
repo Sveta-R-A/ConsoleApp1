@@ -14,7 +14,7 @@ builder.WebHost.ConfigureKestrel(options =>
 var app = builder.Build();
 
 
-app.MapGet("/hello", () => "Hello, world!");
+app.MapGet("/", () => "Hello, world!");
 
 
 app.Run();
